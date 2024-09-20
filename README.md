@@ -72,32 +72,42 @@ This will open up a web interface where you can:
 
 ## 📸 Screenshots
 
+### Data Flow
+![Scene_classification](https://github.com/user-attachments/assets/273693b2-25f8-468d-a437-4d2f1eb2eeb5)
+
 ### Streamlit Interface
-![Streamlit Interface](https://your-repo-url.com/images/streamlit_interface.png)
+![image](https://github.com/user-attachments/assets/f5949f73-b34c-44d0-92a3-a36970b21065)
+
 *The main interface of the Streamlit web application*
 
-### Model Prediction
-![Model Prediction](https://your-repo-url.com/images/model_prediction.png)
+### Dataset
+![image](https://github.com/user-attachments/assets/4b149673-34bf-462c-a489-4086ce69ab98)
+
 *Example of a scene classification prediction*
 
 ### Grad-CAM Visualization
-![Grad-CAM Visualization](https://your-repo-url.com/images/gradcam_visualization.png)
+![s1](https://github.com/user-attachments/assets/a8fbd60d-4ec0-4dc2-a408-4ef0d5039564)
+
 *Grad-CAM heatmap showing areas of importance for the classification*
 
 ### Input Image Example
-![Input Image](https://your-repo-url.com/images/input_image_example.jpg)
+![image](https://github.com/user-attachments/assets/b5f332ed-1235-4b18-a29a-418a3f0ff293)
+
 *A sample input image for scene classification*
 
 ### Grad-CAM Result
-![Grad-CAM Result](https://your-repo-url.com/images/gradcam_result.png)
+![image](https://github.com/user-attachments/assets/63ac2cef-ffff-4fed-b9b4-83daf45273e4)
+
 *Grad-CAM visualization overlaid on the input image*
 
 ### Confidence Level Display
-![Confidence Level](https://your-repo-url.com/images/confidence_level.png)
+![image](https://github.com/user-attachments/assets/415a1f63-dc72-40c7-874d-590f5c7f3bfa)
+
 *Showing the model's confidence in its prediction*
 
 ### Understanding the Output
-![Understanding Output](https://your-repo-url.com/images/output_explanation.png)
+![image](https://github.com/user-attachments/assets/de48a0d5-9da3-4581-a2b5-b771e1227d2d)
+
 *Explanation of how to interpret the model's output and Grad-CAM visualization*
 
 ## 📝 Notes
