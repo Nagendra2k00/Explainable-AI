@@ -72,22 +72,33 @@ This will open up a web interface where you can:
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
-![image](https://github.com/user-attachments/assets/8d5e6e22-df73-411e-889f-b41b5a5a2064)
-![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
-![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
+### Streamlit Interface
+![Streamlit Interface](https://your-repo-url.com/images/streamlit_interface.png)
+*The main interface of the Streamlit web application*
 
-### Input Image:
-![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
+### Model Prediction
+![Model Prediction](https://your-repo-url.com/images/model_prediction.png)
+*Example of a scene classification prediction*
 
-### Grad-CAM Image:
-![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
+### Grad-CAM Visualization
+![Grad-CAM Visualization](https://your-repo-url.com/images/gradcam_visualization.png)
+*Grad-CAM heatmap showing areas of importance for the classification*
 
-### Confidence Level:
-![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
+### Input Image Example
+![Input Image](https://your-repo-url.com/images/input_image_example.jpg)
+*A sample input image for scene classification*
 
-### Understanding Output:
-![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
+### Grad-CAM Result
+![Grad-CAM Result](https://your-repo-url.com/images/gradcam_result.png)
+*Grad-CAM visualization overlaid on the input image*
+
+### Confidence Level Display
+![Confidence Level](https://your-repo-url.com/images/confidence_level.png)
+*Showing the model's confidence in its prediction*
+
+### Understanding the Output
+![Understanding Output](https://your-repo-url.com/images/output_explanation.png)
+*Explanation of how to interpret the model's output and Grad-CAM visualization*
 
 ## 📝 Notes
 
