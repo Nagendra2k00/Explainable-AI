@@ -15,7 +15,7 @@ https://github.com/Nagendra2k00/Explainable-AI.git
 
 2. Install Dependencies
 Ensure you have Python installed, then install the required libraries using:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 3. Train the Model
 The scene classification model (scene_classification_model.h5) is not included in this repository. You need to train the model yourself by following these steps:
