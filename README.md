@@ -72,21 +72,21 @@ This will open up a web interface where you can:
 
 ## 📸 Screenshots
 
-![Streamlit Interface](https://github.com/user-attachments/assets/8d5e6e22-df73-411e-889f-b41b5a5a2064)
-![Model Prediction](https://github.com/user-attachments/assets/fb06381e-4cf2-4dac-a0d3-6a7a81724bfe)
-![Grad-CAM Visualization](https://github.com/user-attachments/assets/ded509ae-d0c5-4e0a-be24-cf6d6eb4e559)
+![image](https://github.com/user-attachments/assets/8d5e6e22-df73-411e-889f-b41b5a5a2064)
+![image](https://github.com/user-attachments/assets/fb06381e-4cf2-4dac-a0d3-6a7a81724bfe)
+![image](https://github.com/user-attachments/assets/ded509ae-d0c5-4e0a-be24-cf6d6eb4e559)
 
 ### Input Image:
-![Input Image](https://github.com/user-attachments/assets/f39718fa-717a-4384-94f6-98aeaf8f9ea6)
+![image](https://github.com/user-attachments/assets/f39718fa-717a-4384-94f6-98aeaf8f9ea6)
 
 ### Grad-CAM Image:
-![Grad-CAM Image](https://github.com/user-attachments/assets/25248d35-e93a-410e-8d85-e17fb0033695)
+![image](https://github.com/user-attachments/assets/25248d35-e93a-410e-8d85-e17fb0033695)
 
 ### Confidence Level:
-![Confidence Level](https://github.com/user-attachments/assets/6a221cc7-ca5c-4334-a5e3-f322ce74eb28)
+![image](https://github.com/user-attachments/assets/6a221cc7-ca5c-4334-a5e3-f322ce74eb28)
 
 ### Understanding Output:
-![Understanding Output](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
+![image](https://github.com/user-attachments/assets/6ce98dfc-dc6c-4149-994f-f6bdde57182e)
 
 ## 📝 Notes
 
