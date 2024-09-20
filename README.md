@@ -115,3 +115,10 @@ This will open up a web interface where you can:
 - The `scene_classification_model.h5` file is not included in this repository. You must run the `Scene_classification.ipynb` notebook to generate the model file before running the Streamlit app.
 - The dataset is also not included in this repository due to its size. You need to download the dataset separately and place it in the appropriate directory as mentioned in the notebook.
 - If you encounter issues with dependencies, you can manually install the necessary packages listed in `requirements.txt`.
+
+## 👤 Author
+
+**Nagendra Kumar K S**
+
+- GitHub: [@Nagendra Kumar K S](https://github.com/Nagendra2k00)
+- LinkedIn: [@Nagendra Kumar K S](https://linkedin.com/in/nagendrakumarks)
